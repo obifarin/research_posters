@@ -1,4 +1,4 @@
-# poster_asms2020: Machine Learning Predicts Renal Cell Carcinoma Status from Urine Using Multiplatform Metabolomics.
+# Conference Proceedings: Machine Learning Predicts Renal Cell Carcinoma Status from Urine Using Multiplatform Metabolomics.
 My poster presentation at the American Society for Mass Spectrometry (ASMS) Conference 2020 on detecting kidney cancer with machine learning and urine-based metabolomics
 
 ## Introduction
