@@ -1,14 +1,14 @@
-# Conference Proceedings: Machine Learning Predicts Renal Cell Carcinoma Status from Urine Using Multiplatform Metabolomics.
+## 1. _[ASMS_MAY2020_Poster_Bifarin_final]_ Machine Learning Predicts Renal Cell Carcinoma Status from Urine Using Multiplatform Metabolomics.
 My poster presentation at the American Society for Mass Spectrometry (ASMS) Conference 2020 on detecting kidney cancer with machine learning and urine-based metabolomics
 
-## Introduction
+### Introduction
 Due to the characteristic asymptomatic progression of Renal Cell Carcinoma (RCC), an early diagnosis of RCC greatly improves survival. Currently, RCC is detected through cross-sectional imaging, followed by renal mass biopsy, which is invasive and riddled with sampling errors. Hence, there is a critical need for a non-invasive diagnostic assay. RCC is a disease of altered cellular metabolism with the tumor(s) in close proximity to the urine in the kidney suggesting metabolomic profiling would an excellent choice for assay development.
 
-## Methods
+### Methods
 We applied machine learning (ML) techniques to predict RCC status from an integrated liquid chromatography/mass spectrometry (LC/MS) and nuclear magnetic resonance (NMR) metabolic profile. NMR spectroscopy and LC/MS experiments were collected for urine from 82 RCC patients and 174 healthy controls. The cohort was divided into two sub-cohorts for training and validation purposes. Discriminatory 1H NMR and MS features were selected using an embedded based feature selection pipeline applied to the training cohort. Three ML techniques with different induction biases were used for training and hyperparameter tuning. Final assessment of RCC status prediction was made using the selected features and the tuned ML algorithms on the test cohort.
 
-## Preliminary Results
+### Preliminary Results
 The model cohort consists of a pair of 31 healthy controls and RCC samples selected using a propensity score matching algorithm (PSM). After PSM, the cohort were gender matched (17 males, 14 females), and had statistically insignificant difference in age (Student t-test p-value=0.64) and BMI (Student t-test p-value=0.06). Smoking history and race’s statistics also improved considerably when compared to the pre-matched cohort. In addition, all RCC stages were represented – early stage RCC (I/II) represents 55% while the late stage RCC (III/IV) represents 45% of the model cohort. Using this model cohort, 49 NMR features and >6000 LC-MS features were filtered to 132 features using the following methods: >2-fold difference between groups, q <0.05 (Student t-test, FDR Benjamin-Hochberg), and removal of highly correlated features (Pearson's correlation coefficient, r >0.8). Next, we used a random forest recursive - feature elimination (RF-RFE) technique and partial least square regression discriminant analysis (PLS-DA) to select the top 20 discriminatory features, using Gini index and VIP scores respectively. The ten metabolic features that overlapped between the two sets was selected as the metabolic panel. The panel were used to train and tune selected hyperparameters in Random Forest (RF), K-nearest neighbor (k-NN), and support vector machine (SVM-Lin and SVM-RBF) classifiers in the model cohort. In the test cohort (healthy controls=143, RCC=51), the best ML model using Random Forest classifiers, discriminated RCC and healthy controls with an accuracy, sensitivity, and specificity of 98% under cross-validation conditions. 2-aminoacetophenone was one of the tentative metabolic biomarkers discovered among the selected features. The identification of metabolic panel is underway.  
 
-## Novel Aspect
+### Novel Aspect
 Our results provide evidence that RCC diagnosis may be possible via a routine urine test. 
