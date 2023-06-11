@@ -1,4 +1,4 @@
-## 1. [ASMS_MAY2020_Poster_Bifarin_final]
+## 1. __[ASMS_MAY2020_Poster_Bifarin_final](https://github.com/obifarin/research_posters/blob/master/ASMS_MAY2020_Poster_Bifarin_final.pdf)__
 ## Machine Learning Predicts Renal Cell Carcinoma Status from Urine Using Multiplatform Metabolomics.
 My poster presentation at the American Society for Mass Spectrometry (ASMS) Conference 2020 on detecting kidney cancer with machine learning and urine-based metabolomics
 
