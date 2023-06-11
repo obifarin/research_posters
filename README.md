@@ -2,9 +2,6 @@
 ## Machine Learning Predicts Renal Cell Carcinoma Status from Urine Using Multiplatform Metabolomics.
 I presented a poster at the American Society for Mass Spectrometry Conference 2020 about using machine learning and urine-based metabolomics to detect kidney cancer. The study used machine learning techniques to predict kidney cancer status from metabolomic profiles generated through liquid chromatography/mass spectrometry and nuclear magnetic resonance. The cohort, comprising 82 kidney cancer patients and 174 healthy controls, was divided for training and validation of the machine learning model. The final machine learning model achieved a 98% accuracy rate in distinguishing between healthy controls and cancer patients. This research indicates that renal cell carcinoma diagnosis may be possible through routine urine tests in the future.
 
-### Novel Aspect
-Our results provide evidence that RCC diagnosis may be possible via a routine urine test. 
-
 ## 2. [ASMS_JUNE2022_Poster_Bifarin_final]
 ## Ovarian Cancer Lipidome Dynamics in a _Dicer-Pten_ Double-Knockout Mouse Model.
 My poster presentation at the American Society for Mass Spectrometry (ASMS) Conference 2022
