@@ -1,4 +1,4 @@
-## 1. _[ASMS_MAY2020_Poster_Bifarin_final]_ 
+## 1. [ASMS_MAY2020_Poster_Bifarin_final]
 ## Machine Learning Predicts Renal Cell Carcinoma Status from Urine Using Multiplatform Metabolomics.
 My poster presentation at the American Society for Mass Spectrometry (ASMS) Conference 2020 on detecting kidney cancer with machine learning and urine-based metabolomics
 
@@ -14,7 +14,7 @@ The model cohort consists of a pair of 31 healthy controls and RCC samples selec
 ### Novel Aspect
 Our results provide evidence that RCC diagnosis may be possible via a routine urine test. 
 
-## 2. _[ASMS_JUNE2022_Poster_Bifarin_final]_ 
+## 2. [ASMS_JUNE2022_Poster_Bifarin_final]
 ## Ovarian Cancer Lipidome Dynamics in a _Dicer-Pten_ Double-Knockout Mouse Model.
 My poster presentation at the American Society for Mass Spectrometry (ASMS) Conference 2022
 
