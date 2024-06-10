@@ -14,4 +14,9 @@ Link: __[Bifarin_ASMS_2023_Poster_final](https://github.com/obifarin/research_po
 
 The selection of optimal machine learning (ML) models for MS-based metabolomics is crucial but often involves tedious evaluation. Automated Machine Learning (AutoML) can automate this process, but the outputs can be difficult to understand, necessitating the need for complex model interpretation. AutoSklearn was used for AutoML model selection, models were interpreted using the KernelSHAP method, and the pipeline was tested on a renal cell carcinoma (RCC) urine-based metabolomics LC-MS dataset.
 
+## 4. Metabolomics: Mapping Evolution and Trends in the Field with AI.
+Link: __[Bifarin_ASMS_2024_Poster_final](https://github.com/obifarin/research_posters/blob/master/ASMS2024-metabolomics-landscape.pdf)__
+
+Thousands of metabolomics papers are published annually, making it challenging to stay updated. To address this, we used unsupervised word embeddings via a transformer-based model to capture latent knowledge from metabolomics literature. I present preliminary findings for mapping the evolution and trend in the field. 
+
 
